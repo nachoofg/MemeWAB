@@ -27,3 +27,4 @@ bot
       return;
     }
   });
+bot.initialize();
